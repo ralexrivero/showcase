@@ -1,10 +1,11 @@
-import './App.css'
+import './App.css';
+import Showcase from './components/Showcase';
 
 function App() {
 
   return (
     <div>
-
+      <Showcase />
     </div>
   )
 }
